@@ -1,26 +1,26 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
+    "name": "Jim",
+    "modality" : "reiki",
     "foods": {
       "likes": ["tuna", "catnip"],
-      "availability": ["Early March", "Late March"]
+      "Availability": ["Early March", "Late March"]
     }
   },
   {
-    "name": "Barky",
-    "species" : "dog",
+    "name": "John",
+    "species" : "acupuncture",
     "foods": {
       "likes": ["bones", "carrots"],
       "availability": ["Early March", "Late March"]
     }
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
+    "name": "Tim",
+    "modality" : "slaps",
     "foods": {
       "likes": ["mice"],
-      "availability": ["Early March", "Late March"]
+      "Availability": ["Early June", "Late July"]
     }
   }
 ]
